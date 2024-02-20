@@ -10,3 +10,10 @@
 - Explain Slice.
 - Explain Selector.
 - Explain createSlice and the configuration it takes.
+
+
+
+*Redux is not mandatory in small application with few components
+*Redux and React are different libraries
+*Redux offer State Management
+
